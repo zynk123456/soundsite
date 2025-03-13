@@ -1,0 +1,12 @@
+body {
+    font-family: monospace;
+    text-align: center;
+    background-color: #1e1e1e;
+    color: white;
+    margin: 20px;
+}
+
+pre {
+    font-size: 12px;
+    white-space: pre;
+}
